@@ -58,3 +58,19 @@
 [03May2025 01:33:16.214] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NicolasRamosR[/127.237.143.76:42111] logged in with entity id 196 at (-7.5, 76.0, 13.5)
 [03May2025 01:33:16.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR joined the game
 [03May2025 01:33:48.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <NicolasRamosR> ee
+[03May2025 01:43:19.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[03May2025 01:45:47.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[03May2025 01:46:07.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2320ms or 46 ticks behind
+[03May2025 01:46:26.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[03May2025 01:47:02.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[03May2025 01:47:54.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[03May2025 01:48:20.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03May2025 01:48:45.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2756ms or 55 ticks behind
+[03May2025 01:54:25.459] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1891baf5
+[03May2025 01:54:25.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santypete[/127.229.50.208:36845] logged in with entity id 18644 at (-6.5, 77.0, 16.5)
+[03May2025 01:54:25.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santypete joined the game
+[03May2025 01:57:05.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NicolasRamosR was slain by Zombie
+[03May2025 01:57:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made NicolasRamosR a server operator
+[03May2025 01:57:40.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [NicolasRamosR: Teleported NicolasRamosR to santypete]
+[03May2025 01:58:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santypete has made the advancement [Stone Age]
+[03May2025 01:59:26.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santypete has made the advancement [Getting an Upgrade]
